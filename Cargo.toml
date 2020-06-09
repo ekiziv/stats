@@ -1,0 +1,8 @@
+[package]
+
+name = "stats"
+version = "0.0.1"
+authors = [ "ekiziv@cs.brown.edu" ]
+
+[dependencies]
+regex = "1.3.6"
